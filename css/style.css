@@ -1,0 +1,84 @@
+h1,
+h2,
+h3,
+h4 {
+    font-family: "Prompt", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h2 {
+    color: #536036;
+}
+
+h3,
+h4 {
+    color: #442f23;
+}
+
+p {
+    font-family: "Sarabun", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.text-ref {
+    font-family: "Sarabun", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.type-book {
+    font-family: "Sarabun", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.writing-font {
+    font-family: "Rock Salt", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.hero-book {
+    max-height: 550px;
+    width: auto;
+    margin-top: -45px;
+}
+
+.hero-bg {
+    background-image: url("../images/Hero-bg-dark.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.book-type {
+    transition: 0.3s;
+}
+
+.book-type:hover {
+    background-color: white;
+    color: black;
+}
+
+
+.border-colors {
+    background-color: #DEDAEF;
+}
+
+.icon-purple {
+    background-color: #DEDAEF;
+}
+
+.ref-bg {
+    background-color: #442f23;
+}
+
+.text-indent {
+    text-align: justify;
+    text-indent: 2rem;
+    letter-spacing: -0.02em;
+    line-height: 1.8;
+}
+
